@@ -125,7 +125,7 @@ KDE plots differentiated by a categorical feature.
 </p>
 
 <p float="left">
-  <img src="eda/violin plots/violin_TLDLength_vs_label.png" width="33%" />
-  <img src="eda/violin plots/violin_URLCharProb_vs_label.png" width="33%" />
-  <img src="eda/violin plots/violin_URLTitleMatchScore_vs_label.png" width="33%" />
+  <img src="violin plots/violin_TLDLength_vs_label.png" width="33%" />
+  <img src="violin plots/violin_URLCharProb_vs_label.png" width="33%" />
+  <img src="violin plots/violin_URLTitleMatchScore_vs_label.png" width="33%" />
 </p>
