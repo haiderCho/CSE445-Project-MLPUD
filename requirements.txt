@@ -1,0 +1,8 @@
+pandas>=1.5.0
+numpy>=1.21.0
+matplotlib>=3.5.0
+seaborn>=0.11.0
+scikit-learn>=1.1.0
+imblearn>=0.10.0  # Also known as imbalanced-learn
+xgboost>=1.6.0
+lime>=0.2.0.1
